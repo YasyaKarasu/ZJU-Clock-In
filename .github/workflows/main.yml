@@ -1,13 +1,6 @@
 name: ClockIn
 
-on:
-  push:
-    branches: 
-      - master
-  watch:
-    types: started
-  schedule:
-    - cron: 0 */8 * * *
+on: workflow_dispatch
 
 jobs:
   ClockIn:
