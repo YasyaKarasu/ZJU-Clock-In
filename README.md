@@ -1,6 +1,6 @@
 # 探究自动打卡的原理与对抗策略
 
-## 1What's New?
+## What's New?
 
 ### Jul 8th
 
